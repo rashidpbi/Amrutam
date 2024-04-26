@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Nexa Light';
+    src: url('./fonts/Nexa-Light.otf') format('opentype'); 
+    font-weight: 300; 
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'DinPro';
+    src: url('./fonts/dinpro/DINPro-Bold\ tr.ttf') ;
+  }
