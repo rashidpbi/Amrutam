@@ -21,7 +21,7 @@ The Amrutam landing page is designed to showcase the services and offerings of t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rashidpbi/amrutam-project.git
+   git clone https://github.com/rashidpbi/Amrutam.git
 
 2. Navigate to the project directory:
    cd amrutam-project
